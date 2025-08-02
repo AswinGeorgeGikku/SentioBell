@@ -1,20 +1,23 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
-
+# [Project Name] 🎯SentioBell
 
 ## Basic Details
-### Team Name: [Name]
+https://sentio-bell.vercel.app/
+### Team Name: [Name]-ASWIN GEORGE GIKKU
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [Name] - [College]-ASWIN GEORGE GIKKU-MAR BASELIOS CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY PEERUMADE
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
 [2-3 lines about what your project does]
+Mood Ring Doorbell is a quirky web-based doorbell that detects a visitor's mood using the webcam, displays both the real and opposite mood with matching emojis, 
+quotes, and plays a song. It's designed for fun, blending AI mood detection with humorous mood inversion.
+
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -25,14 +28,14 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used]-HTML,JAVASCRIPT,CSS
+- [Frameworks used]-BOOTSTRAP
+- [Libraries used]-TENSORFLOW
+- [Tools used]-VS CODE
 
 For Hardware:
-- [List main components]
-- [List specifications]
+- [List main components]-WEBCAM
+- [List specifications]-OPERATING SYSTEM
 - [List tools required]
 
 ### Implementation
