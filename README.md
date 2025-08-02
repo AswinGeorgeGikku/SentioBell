@@ -50,18 +50,48 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]()
-*Add caption explaining what this shows*
+![Screenshot1](https://github.com/AswinGeorgeGikku/SentioBell/blob/main/Screenshot%202025-08-02%20060309.png?raw=true)
+*it scans our current mood and we will get the opposite mood of real mood, we get quote, emoji and song a song for a opposite mood
+example: now my current mood is happy it display or it will give the results(emoji,song and quote)of opposite of our current mood.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://github.com/AswinGeorgeGikku/SentioBell/blob/main/Screenshot%202025-08-02%20060336.png?raw=true)
+*it scans our current mood and we will get the opposite mood of real mood, we get quote, emoji and song a song for a opposite mood
+example: now my current mood is happy it display or it will give the results(emoji,song and quote)of opposite of our current mood.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](https://github.com/AswinGeorgeGikku/SentioBell/blob/main/Screenshot%202025-08-02%20060358.png?raw=true)
+*it scans our current mood and we will get the opposite mood of real mood, we get quote, emoji and song a song for a opposite mood
+example: now my current mood is happy it display or it will give the results(emoji,song and quote)of opposite of our current mood.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](          +--------------------+
+          |  User Presses Btn  |
+          +---------+----------+
+                    |
+                    v
+         +-----------------------+
+         | Webcam Stream Started |
+         +----------+------------+
+                    |
+                    v
+      +-----------------------------+
+      | Mood Detection (Simulated) |
+      +----------+------------------+
+                 |
+     +------------------------+-------------------+
+     |                                            |
+     v                                            v
+[Real Mood Data Lookup]               [Opposite Mood Lookup]
+     |                                            |
+     +------------------------+------------------+
+                              |
+                              v
+                 +----------------------------+
+                 | Display Mood Info on Page |
+                 +----------------------------+
+                              |
+                              v
+        )
+
 
 For Hardware:
 
@@ -84,7 +114,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/drive/folders/1KqCm0wtZPgbIfM-qMfVvXa7tP-0Rui0a?usp=sharing]
 *Explain what the video demonstrates*
 
 # Additional Demos
